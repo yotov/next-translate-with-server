@@ -1,0 +1,16 @@
+{
+  "name": "-",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "next": "^9.5.1",
+    "next-translate": "^0.17.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
